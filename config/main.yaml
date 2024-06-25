@@ -1,0 +1,10 @@
+version: 5.5.0.4
+type: common
+authorName: "Ilya I"
+moduleName: "SvgSupport"
+description: "Safely upload SVG files to your media library and handle them as you would any other image."
+minorRequiredCoreVersion: 0
+dependsOn: {}
+incompatibleWith: {}
+showSettingsForm: false
+canDisable: true
