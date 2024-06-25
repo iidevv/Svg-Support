@@ -36,6 +36,3 @@ The module includes basic checks for potentially harmful elements and attributes
 - Event handler attributes (e.g., `onclick`)
 - `<iframe>`, `<object>`, and `<embed>` tags
 
-## Customization
-
-If you need to customize the module further or add additional security checks, you can modify the `isSafeSVG` method in `src/Controller/Admin/Files.php`.
